@@ -4,7 +4,7 @@ minhas notas de estudo do tec senac 2026
 linguagem deste conteudo exibido : markdown
 
 ## configurando git 
-para utilizar o git na minha maquina  tenho que configura e determinar comandos, sendo eles
+PARA utilizar o git na minha maquina  tenho que configura e determinar comandos, sendo eles
 
 ```
 git config --global
@@ -12,20 +12,20 @@ git config --global
 
 ## como configura GitHub
 
-## ssh - como configurar a maquina para o GitHub
+## ssh - como configurar a maquina PARA o GitHub
 
 ## como criar um repositorio 
 
 ///////////////////////
 
-Se aparecer esta versão para codar ( no prompt), quer dizer que possui o git instalado
+Se aparecer esta versão PARA codar ( no prompt), quer dizer que possui o git instalado
 Github = google drive de código, nuvem de código 
 Conseguimos usar o github clonando o http, porem ele ira fica pedindo suas credenciais toda hora, este cod te ajuda e ele so entregar a sua chave pelo ssh
 
 Ter o git abaixado
 Entrar na conta do github
 Clica na tecla windonws e digita cmd, que é um terminal de comando, prompt de comando
-Começa a codar por ali com as seguintes infos para serem digitas:
+Começa a codar por ali com as seguintes infos PARA serem digitas:
 Git –version
 Enter 
 Configure seu git local 
@@ -50,9 +50,23 @@ Cd no da um tab
 Agora da enter
 Code .
 Da enter
-Eh para aparecer o vs code 
+Eh PARA aparecer o vs code 
 
 
 Markdown 
 Tipo de marcação, formatação
+
+cntl  + k + o - quando eu quiser ir PARA a pasta de outra aula direto, direcionamento 
+crtl shifit N - NOVA ABA DO VS CODE 
+
+GIT 
+GIT
+GIT
+GIT
+
+CTRL D - MUDA PALAVRA REPETIDAS, NOME DE VARIAVIES
+
+ALT E SETAS - MUDA AS FRASES DE LUGAR, MUDA LINHAS DE LUGAR
+
+
 
