@@ -16,3 +16,43 @@ git config --global
 
 ## como criar um repositorio 
 
+///////////////////////
+
+Se aparecer esta versão para codar ( no prompt), quer dizer que possui o git instalado
+Github = google drive de código, nuvem de código 
+Conseguimos usar o github clonando o http, porem ele ira fica pedindo suas credenciais toda hora, este cod te ajuda e ele so entregar a sua chave pelo ssh
+
+Ter o git abaixado
+Entrar na conta do github
+Clica na tecla windonws e digita cmd, que é um terminal de comando, prompt de comando
+Começa a codar por ali com as seguintes infos para serem digitas:
+Git –version
+Enter 
+Configure seu git local 
+Git config --global user.name ”bruna”
+Enter
+Git config --global user.email brunaduarte2307@gmail.com
+
+Após isso você vai gerar sua chave SSH – pelo gitbash
+Acesse o git bash
+Ssh-keygen -t ed25519 -C brunaduarte2307@gmail.com
+Enter
+Enter
+Enter
+Precisa aparecer umas estrelinhas, dai deu certo 
+Após as estrelinhas aparecer coloque:
+Eval “$(ssh-agent -s)
+
+
+
+
+Cd no da um tab 
+Agora da enter
+Code .
+Da enter
+Eh para aparecer o vs code 
+
+
+Markdown 
+Tipo de marcação, formatação
+
