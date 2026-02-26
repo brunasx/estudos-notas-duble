@@ -70,3 +70,10 @@ ALT E SETAS - MUDA AS FRASES DE LUGAR, MUDA LINHAS DE LUGAR
 
 
 
+clonar repositorio
+code do repositorio
+ssh - copia
+git bash
+
+
+
