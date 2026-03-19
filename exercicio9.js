@@ -25,3 +25,4 @@ if (media <5){
 //}
 //const buttonquestao1 = document.getElementById("questao1")
 //buttonquestao1.addEvenListener('click', () => { exemplo1() } )
+//AvaliacaoFrontJs
