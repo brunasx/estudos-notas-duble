@@ -17,3 +17,12 @@ if (media <5){
 } else if (media <= 10){
     alert("alguma coisa tu sabe fazer, parabens")
 } 
+
+//function exemplo1(){
+//const numero = Number(prompt("digite um numero"))
+//const numero2 = Number(prompt("digite outro numero"))
+//alert(numero+numero2)
+//}
+//const buttonquestao1 = document.getElementById("questao1")
+//buttonquestao1.addEvenListener('click', () => { exemplo1() } )
+//AvaliacaoFrontJs
